@@ -1,6 +1,6 @@
 # google-drive-folder-downloader
 
-Download Google Drive folder without zipping!
+Download Google Drive folder without zipping (only applies to own's Drive)
 
 ## Getting Started
 
